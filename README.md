@@ -3,11 +3,7 @@
 ### Hey there 👋
   
 
-- 🔭 I make tech vidoes on [My Tech Channel](https://www.youtube.com/rohanprasadofficial)  
-  
-
-- 🌱 I’m currently learning Visual Design and Illustrations   
-  
+- 🔭 I make tech vidoes on [My Tech Channel](https://www.youtube.com/rohanprasadofficial)    
 
 - ❓ Writes sometimes at https://www.rohanprasad.dev/blog/
   
