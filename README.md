@@ -5,9 +5,8 @@
 
 - 🔭 I make tech videos on [My Tech Channel](https://www.youtube.com/rohanprasadofficial)    
 
-- ❓ Writes sometimes at [https://blog.rohanprasad.dev/](https://rohanprasad.com/)
+- ❓ Writes sometimes at [[https://rohanprasad.com ](https://rohanprasad.com/)] 
   
-
 
 <br/>  
 
